@@ -4,3 +4,7 @@ This lecture covers all the basic concepts for the CNN architecture with mathema
 For live visual demo of filters of CNN, check this link and apply filters of your choice:
 
 https://deeplizard.com/resource/pavq7noze2
+
+For Mathematical Concepts of CNN in Final Exams, Please Check the Following Video from Calculation Perspective:
+
+https://www.youtube.com/watch?v=Y1qxI-Df4Lk
